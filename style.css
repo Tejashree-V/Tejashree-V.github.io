@@ -1,0 +1,107 @@
+/* START  navigation module CSS here   */
+.navbar{
+	
+	background-image:url("images/.jpg");
+	margin-bottom: 20px;
+}
+.navbar-brand img{
+height: 2rem;
+margin-right:10px;
+position:relative;
+bottom:5px;
+
+}
+.navbar li{
+margin-right:px;
+font-size: 20px;
+}
+/* END  navigation module CSS here   */
+/* START CAROUSEL MODULES CSS */
+#carousel img
+{
+	height:550px;
+}
+
+/* END CAROUSEL MODULES CSS*/
+
+/* START THREE PHOTO MODULES CSS*/
+#threePhotoSection img
+{
+	width:420px;
+	height:300px;
+	border-radius:50%;
+	margin:10px;
+}
+#threePhotoSection img:hover
+{
+	width:425px;
+	height:300px;
+	border-radius:20%;
+	opacity:0.7;
+}
+#fivePhotoSection h5
+{
+margin-left: 100px!important;
+margin-top:50px;
+margin-bottom:50px;
+}
+
+.card{
+	margin-left: 20PX;
+}
+
+
+#threePhotoSection
+{
+	margin-bottom:30px;
+	
+}
+.card{
+	background-image: url("images/barbie.jpg")
+}
+
+/* END OF THREE PHOTO MODULES CSS*/
+
+/* START OF PARAGRAPH MODULES CSS*/
+#moreAboutUs h3 
+{
+	padding: 10px;
+	padding-bottom:40px;
+}
+
+#moreAboutUs  blockquote
+{
+	padding:55px;
+	
+}
+
+/* END OF PARAGRAPH MODULES CSS*/
+
+/* START OF TABLE MODULE CSS*/
+/* END OF TABLE MODULE CSS*/
+
+/* START OF FORM MODULES CSS*/
+/* END OF FORM MODULES CSS*/
+
+/* START OF BUTTON CSS*/
+.btn{
+	margin-left:auto;
+	margin-right:auto;display:block;
+	margin-bottom:50px;
+    margin-top:50px;
+}
+.btn{
+	margin-left:auto;
+	margin-right:auto;display:block;
+	margin-bottom:50px;
+    margin-top:50px;
+}
+
+/* END OF BUTTON CSS*/
+
+ /* START OF FOOTER CSS*/
+ footer{
+	background-image: url("images/ironman.jpg");
+	color:white;
+}
+ /* END OF FOOTER CSS*/
